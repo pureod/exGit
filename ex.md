@@ -14,7 +14,7 @@
 # ----- END OF COMMIT -----
 # <type> List
 # - feat    : new feature
-# - fix     : bug fix
+# - fix     : bug
 # - refactor: refactoring production code
 # - style   : formatting, missing semi colons, etc, no code change
 # - docs    : changes to documentation
